@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/411dc6b8-8628-49ee-973b-673ada65cf3a"/>
+<img align="right" height="200" src="https://github.com/user-attachments/assets/411dc6b8-8628-49ee-973b-673ada65cf3a"  />
 
 ###
 
@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
 </div>
 
+###
 
 <h2 align="left">📈 Graphs and Statistics</h2>
 
