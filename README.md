@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="200" src="(https://github.com/user-attachments/assets/ada614f8-1e3f-474c-854f-f6166bc24378)"  />
+<img align="right" height="200" src="https://github.com/user-attachments/assets/ada614f8-1e3f-474c-854f-f6166bc24378"  />
+![annoying-dog-undertale](https://github.com/user-attachments/assets/c901395b-95a5-4b9e-bdc7-83da06a07a22)
 
 ###
 
