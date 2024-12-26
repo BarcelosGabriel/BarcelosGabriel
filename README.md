@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/pt-BR/view/frankt-gif-23053364"  />
+<img align="right" height="200" src="(https://github.com/user-attachments/assets/ada614f8-1e3f-474c-854f-f6166bc24378)"  />
 
 ###
 
@@ -39,8 +39,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
 </div>
-
-###![annoying-dog-undertale](https://github.com/user-attachments/assets/ada614f8-1e3f-474c-854f-f6166bc24378)
 
 
 <h2 align="left">📈 Graphs and Statistics</h2>
