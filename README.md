@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://tenor.com/pt-BR/view/frankt-gif-23053364"  />
+
+###
+
 <p align="left">Desenvolvedor web com conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, SQL, Git e outras tecnologias modernas. Tenho experiência na criação de sites e sistemas, sempre buscando soluções funcionais e eficientes. Apesar do que já aprendi, sei que a área de desenvolvimento está em constante evolução. Por isso, estou sempre disposto a aprender mais, me aperfeiçoando e explorando novas ferramentas e práticas para entregar projetos cada vez melhores.</p>
 
 ###
@@ -43,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barcelosgabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barcelosgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=barcelosgabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barcelosgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
